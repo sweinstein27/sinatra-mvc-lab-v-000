@@ -4,6 +4,6 @@ class App < Sinatra::Base
 
   get "/" do
 
-    erb :piglatinizer.rb
+    erb :user_input
   end
 end
